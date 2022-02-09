@@ -2,21 +2,6 @@
 
 przyklad = [7,5,2,33,10,1,3,33,23,1,12,3,99,0]
 
-# def insertion_sort(array):
-#     temp = array[0]
-#     for i in range(len(array)):
-#         for y in range(i+1,len(array)):
-#             if array[i] > array[y]:
-#                 pass
-#
-#
-#         print(i)
-#
-#
-#     return array
-#     # 2,5,7
-#
-# print(insertion_sort(przyklad))
 def insertion_sort(array):
 
     # We start from 1 since the first element is trivially sorted
